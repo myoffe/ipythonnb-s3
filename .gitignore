@@ -3,3 +3,8 @@
 .pydevproject
 *.ipynb
 *.pyc
+.idea
+build
+dist
+*.iml
+s3nbmanager.egg-info
